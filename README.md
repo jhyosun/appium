@@ -133,7 +133,7 @@ class CartTest(AppiumConnection):
 # 실행 결과
 
 ![image.png](images/appium2.JPG)
-![image.png](images/appium3.mp4)
+![image.png](images/appium3.gif)
 
 ---
 
