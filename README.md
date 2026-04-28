@@ -1,7 +1,7 @@
 
 ### appium 활용한 쇼핑몰앱 테스트
 
-## 실행 시나리오
+# 실행 시나리오
 1. 쇼핑몰 앱 실행
 2. 국가를 “Angola”로 선택
 3. “Your name”은 빈칸으로 둠
@@ -18,13 +18,13 @@
 14. 브라우저로 이동하는지 확인 후 백 버튼 클릭
 15. 첫 화면으로 이동했는지 확인
 
-## 시작 전 appium셋팅
+# 시작 전 appium셋팅
 
 ![image.png](images/pixel8.JPG)
 ![image.png](images/appium1.JPG)
 
 
-## 실행 코드
+# 실행 코드
 
 ```python
 import time
@@ -128,6 +128,9 @@ class CartTest(AppiumConnection):
             print(f"요소 테스트 중 오류 발생: {e}")
 
 ```
+
+# 실행 결과
+
 ![image.png](images/appium2.JPG)
 ![image.png](images/appium3.mp4)
 
