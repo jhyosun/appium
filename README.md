@@ -1,5 +1,5 @@
 
-## appium 활용한 쇼핑몰앱 테스트
+### appium 활용한 쇼핑몰앱 테스트
 
 ## 실행 시나리오
 1. 쇼핑몰 앱 실행
@@ -133,7 +133,7 @@ class CartTest(AppiumConnection):
 
 ---
 
-# appium 실습
+### appium 실습
 
 ![image.png](images/image.png)
 
