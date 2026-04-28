@@ -22,6 +22,7 @@
 
 ![image.png](images/pixel8.JPG)
 ![image.png](images/appium1.JPG)
+![image.png](images/image.png)
 
 
 # 실행 코드
@@ -138,7 +139,6 @@ class CartTest(AppiumConnection):
 
 ### appium 실습
 
-![image.png](images/image.png)
 
 ![image.png](images/image1.png)
 
